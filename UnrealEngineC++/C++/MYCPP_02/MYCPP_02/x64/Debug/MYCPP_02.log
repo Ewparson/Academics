@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(2,6): error C2143: syntax error: missing ';' before '<<'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(2,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(2,6): error C2059: syntax error: '<<'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(3,5): error C2143: syntax error: missing ';' before '>>'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(3,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(3,5): error C2059: syntax error: '>>'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(4,6): error C2143: syntax error: missing ';' before '<<'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(4,6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(4,1): error C2086: 'int cout': redefinition
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(2,1): message : see declaration of 'cout'
+C:\Users\emaan\OneDrive\Desktop\Unreal Engine 5 Game Development with c++ Scripitng\MYCPP_02\MYCPP_02\main.cpp(4,6): error C2059: syntax error: '<<'
